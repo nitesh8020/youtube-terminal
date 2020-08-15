@@ -5,5 +5,5 @@ Just enter what you want to listen and let it scrap and download music for you a
 To download and play music see requirements.txt and run
 
 ```sh
-$ python script.py
+$ python scrap.py
 ```
